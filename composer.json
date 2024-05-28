@@ -1,5 +1,5 @@
 {
-  "name": "maennchen/zipstream-php",
+  "name": "jannmylj/zipstream-php",
   "description": "ZipStream is a library for dynamically streaming dynamic zip files from PHP without writing to the disk at all on the server.",
   "keywords": ["zip", "stream"],
   "type": "library",
@@ -22,7 +22,7 @@
     }
   ],
   "require": {
-    "php-64bit": "^8.1",
+    "php-64bit": "^8.0",
     "ext-mbstring": "*",
     "ext-zlib": "*"
   },
